@@ -234,9 +234,10 @@ int main(int argc, char* argv[])
 
         push_back_helper(fingerMarkerColors,std::string("red"));
         push_back_helper(fingerMarkerColors,std::string("red"));
-        std::string mainColor = "black";
-        std::string altColor  = "maroon"; // "orange";
-        std::string buttonBorderColor = "black";
+
+        mainColor = "black";
+        altColor  = "maroon"; // "orange";
+        buttonBorderColor = "black";
 
     }
     else
@@ -256,9 +257,10 @@ int main(int argc, char* argv[])
 
         push_back_helper(fingerMarkerColors,std::string("red"));
         push_back_helper(fingerMarkerColors,std::string("red"));
-        std::string mainColor = "black"; // mediumblue
-        std::string altColor  = "red"; // "orange"; // tomato
-        std::string buttonBorderColor = "gray";
+
+        mainColor = "black"; // mediumblue
+        altColor  = "red"; // "orange"; // tomato
+        buttonBorderColor = "gray";
 
     }
 
