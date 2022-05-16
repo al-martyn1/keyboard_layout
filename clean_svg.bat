@@ -1,0 +1,1 @@
+@if exist svg\*.svg del /Q svg\*.svg
