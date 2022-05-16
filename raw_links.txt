@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/al-martyn1/keyboard_layout/main/svg/kbd_layout_all.svg
+https://raw.githubusercontent.com/al-martyn1/keyboard_layout/main/svg/kbd_layout_all_pale.svg
+https://raw.githubusercontent.com/al-martyn1/keyboard_layout/main/svg/kbd_layout_en.svg
+https://raw.githubusercontent.com/al-martyn1/keyboard_layout/main/svg/kbd_layout_en_pale.svg
+https://raw.githubusercontent.com/al-martyn1/keyboard_layout/main/svg/kbd_layout_ru.svg
+https://raw.githubusercontent.com/al-martyn1/keyboard_layout/main/svg/kbd_layout_ru_pale.svg
